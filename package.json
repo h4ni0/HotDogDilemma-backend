@@ -9,7 +9,7 @@
     "start": "node build/server.js",
     "test": "",
     "tsc": "tsc",
-    "build": "tsc && node build/server.js"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
